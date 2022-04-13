@@ -1,2 +1,3 @@
 # JS_Practise
 This repository contains JavaScript concepts and related practical exercises... 
+* All practice exercises in this repo are adopted from ~ [ here](https://exercism.org/tracks/javascript/exercises)
